@@ -11,7 +11,7 @@ import {
   Image,
   Dimensions,
 } from 'react-native';
-import { Bold, Menu, Settings } from 'react-native-feather';
+import { Menu, Settings } from 'react-native-feather';
 
 const mediaArray = [
   {
